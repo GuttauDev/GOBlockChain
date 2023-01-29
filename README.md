@@ -4,7 +4,9 @@ Go Lang functional blockchain, wallet and transaction
 its divided in 3 files for now:
 
 Blockchain.go - it stores the blockchain, block methods
+
 Wallet.go - it generates Public and Private Key for wallets, and also sign and verify transactions 
+
 Main.go -  it brings everything together to execute
 
 
